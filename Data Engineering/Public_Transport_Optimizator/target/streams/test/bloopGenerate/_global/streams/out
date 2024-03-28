@@ -1,4 +1,4 @@
-[debug] [tp_spark_df_belintane_joao-test] Classpath dependencies List()
-[debug] [tp_spark_df_belintane_joao-test] Dependencies from configurations List(tp_spark_df_belintane_joao)
-[debug] Bloop wrote the configuration of project 'tp_spark_df_belintane_joao-test' to 'C:\Users\joaob\OneDrive\Área de Trabalho\Efrei\Data Engineering\spark-df\tp_spark_df_BELINTANE_Joao\.bloop\tp_spark_df_belintane_joao-test.json'
-[success] Generated .bloop\tp_spark_df_belintane_joao-test.json
+[debug] [public_transport_optimizator-test] Classpath dependencies List()
+[debug] [public_transport_optimizator-test] Dependencies from configurations List(public_transport_optimizator)
+[debug] Bloop wrote the configuration of project 'public_transport_optimizator-test' to 'C:\Users\joaob\OneDrive\Área de Trabalho\Efrei---Big-Data-and-Machine-Learning\Data Engineering\Public_Transport_Optimizator\.bloop\public_transport_optimizator-test.json'
+[success] Generated .bloop\public_transport_optimizator-test.json
