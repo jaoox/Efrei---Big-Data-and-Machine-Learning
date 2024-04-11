@@ -4089,3 +4089,4 @@ INFO: Unsupported notification method: $/setTrace
 2024.04.11 16:38:14 INFO  time: Imported build in 0.16s
 2024.04.11 16:38:19 INFO  time: indexed workspace in 4.68s
 2024.04.11 16:38:28 WARN  Bloop is running with 1.8.0_172 but your code requires 11.0.21 to compile, this might cause some compilation issues when using JDK API unsupported by the Bloop's current JVM version
+2024.04.11 16:54:16 INFO  time: code lens generation in 2.96s
