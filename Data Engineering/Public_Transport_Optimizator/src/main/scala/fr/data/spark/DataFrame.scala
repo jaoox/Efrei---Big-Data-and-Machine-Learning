@@ -6,7 +6,7 @@ import org.apache.spark.sql.functions._
 
 
 object DataFrame {
-cd 
+ 
   def main(args: Array[String]): Unit = {
 
     val spark = SparkSession.builder
@@ -16,7 +16,7 @@ cd
 
     
 
-    println("teste")
+    println("------------------------------ teste ------------------------------")
 
     // Reading the CSV file
     /*
