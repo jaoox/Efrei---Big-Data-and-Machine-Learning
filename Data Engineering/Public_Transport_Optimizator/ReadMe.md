@@ -11,6 +11,7 @@ This project's architecture encapsulates the flow of data from IoT devices to ac
 ### Producers
 
 - **IoT Devices on Vehicles**: These devices serve as the primary producers, emitting real-time geolocation data, passenger counts, and environmental metrics.
+- **IoT Devices on Mobiles**: Utilize public transportation apps on users' mobile phones to emit geolocation data and destination information.
 
 ### Data Flow
 
